@@ -6,7 +6,7 @@ The source data was collected in 3 sessions at 3 different sites in central Norw
 ## Data models
 Considerable efforts were made to ensure high quality data in the analysis.  This includes development of a classes for soil stresses,  cpt data interpretation (another for raw-cpt data), and for detailed analysis of results.
 ![](https://raw.githubusercontent.com/siggimar/penetration_rate_cptu/refs/heads/main/data_vs_raw_40.png)
-These efforts uncovered issues with using standard dataformat for faster than prescribed rates.
+These efforts uncovered issues with standard dataformat at faster rates (this test at v=40mm/s)
 
 ## Rate effects
 The results from this study are visualized using the (messy!) cptu_rate_plotter.py script, here you will find functions used to generate most of the figures used in the related chapter in the thesis.
