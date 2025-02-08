@@ -17,3 +17,5 @@ The results from this study are visualized using the (messy!) cptu_rate_plotter.
 This study included the development of PCC_warp.  A class to warp depths in soundings to best match curve characteristics in another.
 ![](https://raw.githubusercontent.com/siggimar/penetration_rate_cptu/refs/heads/main/PCC_warp%20example_HALS02.gif)
 PCC_warp was used in place of DTW and DDTW (examples found herein) as these are found too liberal in stretching and squishing intervals for the best match.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14838136.svg)](https://doi.org/10.5281/zenodo.14838136)
